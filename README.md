@@ -7,6 +7,6 @@ This project focused on sales and financial analytics for AtliQ Hardwares, a glo
 The analysis on sales data helps the client to monitor and evaluate their Sales Performance. It helps in identifying Key Performnace Indicators(KPI) improve tactics and bolster overall sales efficiency.
 
 ## Project Objective:
-1. Create a <a href="https://github.com/nihilrengasamy/Excel-Sales-and-Finance-Analytics/blob/main/Customer%20Performance%20Report.pdf" target="_blank">Customer Performance Report</a>
-
-2.Conduct a comprehensive comparison between<a href="https://github.com/nihilrengasamy/Excel-Sales-and-Finance-Analytics/blob/main/Market%20performance%20vs%20Sales%20Target.pdf" target="_blank">Market Performance and Sales Target</a>
+1.Create a <a href="https://github.com/nihilrengasamy/Excel-Sales-and-Finance-Analytics/blob/main/Customer%20Performance%20Report.pdf" target="_blank">Customer Performance Report</a>
+2.Conduct a comprehensive comparison between<a href="https://github.com/nihilrengasamy/Excel-Sales-and-Finance- 
+Analytics/blob/main/Market%20performance%20vs%20Sales%20Target.pdf" target="_blank">Market Performance and Sales Target</a>
