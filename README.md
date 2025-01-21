@@ -16,6 +16,7 @@ Analytics/blob/main/Market%20performance%20vs%20Sales%20Target.pdf" target="_bla
 
    *** Based on Quantity , product analysis:  <a href="https://github.com/nihilrengasamy/Excel-Sales-and-Finance-Analytics/blob/main/Top%205%20Products%20on%20Quantity.pdf" 
    target="_blank">Top and Bottom 5 product based on Quantity</a>
+   
    *** Based on Netsales, top rated countries: <a href="https://github.com/nihilrengasamy/Excel-Sales-and-FinanceAnalytics/blob/main/Top%205%20Products%20on%20Quantity.pdf" 
    target="_blank">Top 5 Country/a>
 
