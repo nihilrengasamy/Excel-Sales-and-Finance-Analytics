@@ -22,3 +22,9 @@ Analytics/blob/main/Market%20performance%20vs%20Sales%20Target.pdf" target="_bla
 
    *** Based on Net sales, with COGS details, top selling products: <a href="https://github.com/nihilrengasamy/Excel-Sales-and-Finance-Analytics/blob/main/Top%205%20products%20on%20Net%20sales.pdf" target="_blank">Top 5 Product Based on Net Sales with COGS</a>
 
+## Finance Analytics:
+The Analysis on Finance Data in the form of Profit and Loss(P&L) statement helps the Company to maintain and leverage the financials for investments, and make strategic decision to increase the revenue.
+
+1. Created Profit and Loss statement for Fiscal years 2019, 2020 and 2021 for the company: https://github.com/nihilrengasamy/Excel-Sales-and-Finance-Analytics/blob/main/P%20%26%20L%20Year.pdf
+2. 
+
