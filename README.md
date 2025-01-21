@@ -26,5 +26,6 @@ Analytics/blob/main/Market%20performance%20vs%20Sales%20Target.pdf" target="_bla
 The Analysis on Finance Data in the form of Profit and Loss(P&L) statement helps the Company to maintain and leverage the financials for investments, and make strategic decision to increase the revenue.
 
 1. Created Profit and Loss statement for Fiscal years 2019, 2020 and 2021 for the company:<a href="https://github.com/nihilrengasamy/Excel-Sales-and-Finance-Analytics/blob/main/P%20%26%20L%20Year.pdf" target="_blank"> P & L by Year</a>
-2. Created Profit and Loss statement based on 12 months of year each divided in to four Quarters Q1, Q2, Q3, Q4 company:<a href="https://github.com/nihilrengasamy/Excel-Sales-and-Finance-Analytics/blob/main/P%20%26%20L%20Year.pdf" target="_blank"> P & L by Month</a>
+2. Created Profit and Loss statement based on 12 months of a year each divided in to four Quarters Q1, Q2, Q3, Q4 company:<a href="https://github.com/nihilrengasamy/Excel-Sales-and-Finance-Analytics/blob/main/P%20%26%20L%20Year.pdf" target="_blank"> P & L by Month</a>
+3. Created a report on Gross Margin perctegae for each four quarter of the respective years 2019,2020 and 2021:<a href="https://github.com/nihilrengasamy/Excel-Sales-and-Finance-Analytics/blob/main/GM%20%25%20by%20Quarters.pdf" target="_blank"> GM % by Quarters</a>
 
