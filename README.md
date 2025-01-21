@@ -14,13 +14,13 @@ Analytics/blob/main/Market%20performance%20vs%20Sales%20Target.pdf" target="_bla
 
 3. The product reports are created to have insights about the top selling product based on Net sales with the details of Cost of Goods and Services and top 5 country where sales are outstanding:
 
-   *** Based on Quantity , product analysis:  <a href="https://github.com/nihilrengasamy/Excel-Sales-and-Finance-Analytics/blob/main/Top%205%20Products%20on%20Quantity.pdf" 
+   A) Based on Quantity , product analysis:  <a href="https://github.com/nihilrengasamy/Excel-Sales-and-Finance-Analytics/blob/main/Top%205%20Products%20on%20Quantity.pdf" 
    target="_blank">Top and Bottom 5 product based on Quantity</a>
    
-   *** Based on Netsales, top rated countries: <a href="https://github.com/nihilrengasamy/Excel-Sales-and-FinanceAnalytics/blob/main/Top%205%20Products%20on%20Quantity.pdf" 
+   B) Based on Netsales, top rated countries: <a href="https://github.com/nihilrengasamy/Excel-Sales-and-FinanceAnalytics/blob/main/Top%205%20Products%20on%20Quantity.pdf" 
    target="_blank">Top 5 Country</a>
 
-   *** Based on Net sales, with COGS details, top selling products: <a href="https://github.com/nihilrengasamy/Excel-Sales-and-Finance-Analytics/blob/main/Top%205%20products%20on%20Net%20sales.pdf" target="_blank">Top 5 Product Based on Net Sales with COGS</a>
+   C) Based on Net sales, with COGS details, top selling products: <a href="https://github.com/nihilrengasamy/Excel-Sales-and-Finance-Analytics/blob/main/Top%205%20products%20on%20Net%20sales.pdf" target="_blank">Top 5 Product Based on Net Sales with COGS</a>
 
 ## Finance Analytics:
 The Analysis on Finance Data in the form of Profit and Loss(P&L) statement helps the Company to maintain and leverage the financials for investments, and make strategic decision to increase the revenue.
