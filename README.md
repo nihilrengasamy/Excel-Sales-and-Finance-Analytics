@@ -20,5 +20,5 @@ Analytics/blob/main/Market%20performance%20vs%20Sales%20Target.pdf" target="_bla
    *** Based on Netsales, top rated countries: <a href="https://github.com/nihilrengasamy/Excel-Sales-and-FinanceAnalytics/blob/main/Top%205%20Products%20on%20Quantity.pdf" 
    target="_blank">Top 5 Country</a>
 
-   *** Based on Net sales, with COGS details, top selling products: <a href="https://github.com/nihilrengasamy/Excel-Sales-andFinanceAnalytics/blob/main/Top%205%20Products%20on%20Quantity.pdf" target="_blank">Top 5 Product Based on Net Sales with COGS</a>
+   *** Based on Net sales, with COGS details, top selling products: <a href="https://github.com/nihilrengasamy/Excel-Sales-and-Finance-Analytics/blob/main/Top%205%20products%20on%20Net%20sales.pdf" target="_blank">Top 5 Product Based on Net Sales with COGS</a>
 
